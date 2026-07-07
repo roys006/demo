@@ -1,2 +1,3 @@
 # demo
-A demo for git and github
+A demo for git and github class of apna college
+
